@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maves1&langs_count=5&theme=onedark&hide=CMake,Makefile)]()
 
 <!--
 **Maves1/Maves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
